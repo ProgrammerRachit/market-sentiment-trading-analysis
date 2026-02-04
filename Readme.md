@@ -74,19 +74,19 @@ market-sentiment-trading-analysis/
 ├── requirements.txt
 └── README.md
 ```
-How to Run
-    1. Clone the repository 
-    2. Create the virtual environment
-    3. Install dependencies:
-        pip install -r requirements.txt
-    4. Open the notebook:
-        jupyter notebook
-    5. Run analysis.ipynb
+How to Run:
+1. Clone the repository 
+2. Create the virtual environment
+ 3. Install dependencies:
+    pip install -r requirements.txt
+4. Open the notebook:
+   jupyter notebook
+ 5. Run analysis.ipynb
 
 Notes and Limitations
-    1. The analysis is limited by a small overlap period between sentiment and trading data
-    2. Results are exploratory and not statistically conclusive
-    3. Findings should be interpreted as behavioral signals rather than trading guarantees
+1. The analysis is limited by a small overlap period between sentiment and trading data
+2. Results are exploratory and not statistically conclusive
+3. Findings should be interpreted as behavioral signals rather than trading guarantees
 
 Author
 Created by Aaryan as an exploratory data analysis project.
