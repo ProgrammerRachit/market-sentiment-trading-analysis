@@ -57,15 +57,20 @@ Supporting visualizations are provided in the `outputs/charts/` directory.
 
 ## Project Structure
 
+```text
 market-sentiment-trading-analysis/
+│
 ├── data/
 │   ├── sentiment.csv
 │   └── trades.csv
+│
 ├── notebooks/
 │   └── analysis.ipynb
+│
 ├── outputs/
-│   └── charts/
-├── report.md
+│   ├── charts/
+│   └── report.md
+│
 ├── requirements.txt
 └── README.md
 
