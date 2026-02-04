@@ -73,7 +73,7 @@ market-sentiment-trading-analysis/
 │
 ├── requirements.txt
 └── README.md
-
+```
 How to Run
     1. Clone the repository 
     2. Create the virtual environment
